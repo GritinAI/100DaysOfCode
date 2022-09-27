@@ -34,7 +34,7 @@
 
 ## Challenge Write a Python Code that Print out the factorial of a number (n)
 
-#### test if n = 5 hence 5! = 120 = 5*4*3*2*1
+#### test if n = 5 hence 5! = 5 x 4 x 3 x 2 x 1 = 120
 
 ## Always make sure you code along each of the Resources and solve out Challenges 
 
