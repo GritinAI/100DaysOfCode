@@ -38,4 +38,4 @@
 
 ## Always make sure you code along each of the Resources and solve out Challenges 
 
-<img width="1000" alt="Day_2" src="h(https://user-images.githubusercontent.com/58959180/192464294-b2282fc1-b8dc-4a37-b639-021196a76556.jpeg">
+<img width="1128" alt="Day_1" src="https://user-images.githubusercontent.com/58959180/192464294-b2282fc1-b8dc-4a37-b639-021196a76556.jpeg">
