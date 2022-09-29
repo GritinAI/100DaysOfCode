@@ -1,6 +1,6 @@
-# Day 1 Resources 
+# Day 3 Resources 
 
-## Section 2 : Python Programming and Logic Building 
+## Section 3 : Python Programming and Logic Building 
 
 ### Topics:
 1. Dictionary
@@ -27,4 +27,4 @@
 
 ## Always make sure you code along each of the Resources and solve out Challenges 
 
-<img width="1128" alt="Day_1" src="https://user-images.githubusercontent.com/58959180/192464294-b2282fc1-b8dc-4a37-b639-021196a76556.jpeg">
+<img width="1128" alt="Day_1" src="https://user-images.githubusercontent.com/58959180/192719113-4d13e2e5-6e44-4bbe-8aea-12b0a28e5512.jpeg">
