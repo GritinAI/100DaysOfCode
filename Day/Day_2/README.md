@@ -1,4 +1,4 @@
-# Day 1 Resources 
+# Day 2 Resources 
 
 ## Section 2 : Python Programming and Logic Building 
 
