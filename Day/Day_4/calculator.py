@@ -6,10 +6,9 @@
     4. A While Loop to keep requesting for an Integer and Once the User Enter Ok we break out from the Loop to perform the Operation
     5. Sort the List in Reverse order to make the Largest Number come First
     5. A For loop to loop through the Sorted List and store the result
-    6. Pring out the Result
-
-
+    6. Print out the Result
 """
+
 def solve(a, b, sign):
     """_summary_
 
