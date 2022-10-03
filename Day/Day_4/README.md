@@ -1,6 +1,6 @@
 # Day 4 Resources 
 
-## Section 4 : Python Programming and Logic Building 
+## Section 1 : Python Programming and Logic Building 
 
 ### Topics:
 1. Object Oriented Programming

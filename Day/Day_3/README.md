@@ -1,6 +1,6 @@
 # Day 3 Resources 
 
-## Section 3 : Python Programming and Logic Building 
+## Section 1 : Python Programming and Logic Building 
 
 ### Topics:
 1. Dictionary

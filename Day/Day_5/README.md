@@ -1,6 +1,6 @@
 # Day 5 Resources 
 
-## Section 4 : Data Structures and Algorithm
+## Section 2 : Data Structures and Algorithm
 
 ### Topics:
 1. Types of Algorithm Analysis

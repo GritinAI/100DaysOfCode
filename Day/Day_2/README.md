@@ -1,6 +1,6 @@
 # Day 2 Resources 
 
-## Section 2 : Python Programming and Logic Building 
+## Section 1 : Python Programming and Logic Building 
 
 ### Topics:
 1. While Loop

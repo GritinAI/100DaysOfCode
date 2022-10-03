@@ -26,4 +26,4 @@
 
 ## Always make sure you code along each of the Resources 
 
-<img width="1128" alt="Day_4" src="https://user-images.githubusercontent.com/58959180/193396384-f5ec8984-5ade-443a-abfc-06b63ae12362.jpg">
+<img width="1128" alt="Day_6" src="https://user-images.githubusercontent.com/58959180/193396384-f5ec8984-5ade-443a-abfc-06b63ae12362.jpg">
