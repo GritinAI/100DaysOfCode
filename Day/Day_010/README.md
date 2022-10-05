@@ -1,4 +1,4 @@
-# Day 9 Resources 
+# Day 10 Resources 
 
 ## Section 3 : Pandas Numpy and Matplotlib
 
