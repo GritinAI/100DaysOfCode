@@ -5,7 +5,7 @@
 ### Topics:
 1. Graphs
     * [Graphs](https://www.tutorialspoint.com/python_data_structure/python_graphs.htm#:~:text=Practical%20Data%20Science%20using%20Python&text=A%20graph%20is%20a%20pictorial,the%20vertices%20are%20called%20edges.)
-    * [Graphs Video](youtube.com/watch?v=j0IYCyBdzfA)
+    * [Graphs Video](https://www.youtube.com/watch?v=j0IYCyBdzfA)
 
 2. Sorting
     * [Sorting](https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm)
