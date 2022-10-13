@@ -15,3 +15,6 @@
 [Statistic Full Video](https://www.youtube.com/watch?v=xxpc-HPKN28)
 
 ## Always make sure you Practice along each of the Resources 
+
+<img width="640" alt="Day_18" src="https://user-images.githubusercontent.com/58959180/195513439-4a8e5d4a-be5f-445d-98ca-bed868e62749.png">
+
