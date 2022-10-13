@@ -1,4 +1,4 @@
-# Day 17 Resources 
+# Day 18 Resources 
 
 ## Section 4 : Statistics
 
