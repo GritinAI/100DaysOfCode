@@ -1,4 +1,4 @@
-# Day 21 Resources 
+# Day 22 Resources 
 
 ## Section 4 : Statistics
 
@@ -12,7 +12,7 @@
 
 2. Linear and nonlinear regression
     * [Linear and nonlinear regression](http://www.nku.edu/~longa/classes/jones/flies/non-lin-reg.pdf)
-    * [Linear and nonlinear regression](https://www.youtube.com/watch?v=tOzwEv0PoZk)
+    * [Linear and nonlinear regression Video](https://www.youtube.com/watch?v=tOzwEv0PoZk)
 
 ## Always make sure you Practice along each of the Resources 
 
