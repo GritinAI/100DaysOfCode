@@ -12,7 +12,7 @@
     
 
 2. ANOVA
-    * [ANOVA] 1(https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/)
+    * [ANOVA 1](https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/)
     * [ANOVA 2](https://medium.com/@learnbay/anova-for-statistics-in-data-science-c941ad752723https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/)
 
     * [ANOVA Video](https://www.youtube.com/watch?v=r1ueoHA_KCQ)
