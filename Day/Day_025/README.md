@@ -15,6 +15,6 @@
 
 ## Always make sure you Practice along each of the Resources 
 
-<img width="640" alt="Day_23" src="https://user-images.githubusercontent.com/58959180/196919116-b14179d3-30d0-4873-8e71-bfc5b634c35e.png">
+<img width="640" alt="Day_25" src="https://user-images.githubusercontent.com/58959180/196919116-b14179d3-30d0-4873-8e71-bfc5b634c35e.png">
 
 
