@@ -1,6 +1,6 @@
 # Day 34 Resources 
 
-## Section 5 : Data Visualization
+## Section 6 : Data Visualization
 
 ### Topics: Tableau
 
